@@ -1,1 +1,2 @@
 This is git bash practice
+This is the updated text in this file
